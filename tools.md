@@ -103,3 +103,17 @@
 - Data Visu - PowerBI, Tableau, ibm cognos
 - model building - spss, sas, ibm watson studio
 - model deployment - spss, ibm
+- development Env - IBM Watson Studio
+
+## Cloud Based Tools
+- Watson Studio with Watson Openscale
+- Azure Machine Learning
+- H2O.ai
+
+## Open Data Source
+- Kaggle
+- Goverment Agencies
+
+## Enterprise Dataset
+- IBM - DAeX
+
