@@ -1,12 +1,12 @@
 # define the class
 class Circle(object):
 
-    # special method > constructor
+    # Constructor
     def __init__(self, radius, colour):
         self.radius = radius
         self.colour = colour
     
-    # creating a method
+    # Method
     def add_radius(self, r):
         self.radius = self.radius + r
         return(self.radius)
